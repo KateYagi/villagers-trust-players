@@ -1,0 +1,10 @@
+{
+  "version" : "1.2",
+  "tags" : "NPCs and Creatures|Mechanics",
+  "author" : "K. Yagi",
+  "description" : "Villagers Trust Players\n\nInspired by Lazy Guards by Reika (Which as of right now is broken, as it has not been updated in a few years.)\n\nStarbound mod that makes villager NPCs not care if you break their stuff. Why? I dunno. Maybe they think if you're a protectorate that you probably need that item for something important, or maybe you just have Stealth 100 and they don't notice you just broke their door.\n\nI made this because I saw a critter fall in a pond, and wanted to make a way for it to crawl out, and got shot at for \"stealing\" dirt.\n\nPatches out accuse and attackThief from behaviors/npc/villager.behavior, and villagerguard.behavior.\n\n.pak file available on github: https://github.com/KateYagi/villagers-trust-players \n\nTo see other mods I've made, check out my neocities: https://kateyagi.neocities.org/mods/gallery.html",
+  "name" : "villagersTrustPlayers",
+  "friendlyName" : "Villagers Trust Players",
+  "steamContentId" : "2247567606",
+  "link" : "steam://url/CommunityFilePage/2247567606"
+}
