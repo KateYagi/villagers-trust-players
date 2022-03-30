@@ -11,4 +11,4 @@ Patches out accuse and attackThief from behaviors/npc/villager.behavior, and vil
 
 A .pak is provided in the releases.
 
-To see other mods I've made, check out my neocities: https://kateyagi.neocities.org/mods/gallery.html
+To see other mods I've made, check out my neocities: https://kateyagi.neocities.org/mods.html
