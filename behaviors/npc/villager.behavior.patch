@@ -1,6 +1,12 @@
 [
   {
-    "op": "remove",
-    "path": "/root/children/2"
+    "op": "replace",
+    "path": "/root/children/2",
+    "value": {
+      "title": "no-op",
+      "type": "action",
+      "name": "failure",
+      "parameters": {}
+    }
   }
 ]
